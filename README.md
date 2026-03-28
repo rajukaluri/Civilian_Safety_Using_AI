@@ -1,3 +1,4 @@
+# Civilian Safety Using AI
 # Helmet-and-Number-Plate-Detection-and-Recognition
 Motorcycle Accidents have been rapidly growing throughout the years in many countries. The helmet is the main safety equipment of motorcyclists. There was need to propose an automated system that monitors motorcycles and detects the persons wearing helmet or not and a system to detect number plates. 
 
